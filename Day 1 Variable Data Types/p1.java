@@ -16,7 +16,7 @@ public class p1{
         System.out.println("Enter 3rd No:");
         int num3= sc.nextInt();
 
-        // Averager of these three numbers 8
+        // Average of these three numbers 8
         
         int avg= (num1+num2+num3)/3;
 
